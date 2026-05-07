@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Trackify",
+    "slug": "trackify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#1A73E8" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#1A73E8" } }
+  }
+}
